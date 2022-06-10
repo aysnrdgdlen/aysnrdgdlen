@@ -29,7 +29,6 @@ I am a fourth-year computer engineering student. I did an internship for 1 month
 
 </td><td valign="top" width="50%">
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
 
 
 </td></tr></table>  
