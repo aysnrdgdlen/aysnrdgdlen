@@ -1,9 +1,7 @@
 ## Hey 👋, I'm Ayşenur Dağdelen!  
   
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aysenurdagdelen/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  
   
 
 
@@ -26,6 +24,9 @@ I am a fourth-year computer engineering student. I did an internship for 1 month
 
 </td><td valign="top" width="50%">
 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aysenurdagdelen/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 
 </td></tr></table>  
