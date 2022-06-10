@@ -22,9 +22,6 @@ I am a fourth-year computer engineering student. I did an internship for 1 month
   
 
 - 🔮 How to reach me [aysnrdgdlengmail.com]()  
-  
-
-  
 
 
 </td><td valign="top" width="50%">
