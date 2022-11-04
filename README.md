@@ -19,7 +19,7 @@ I am a fourth-year computer engineering student. I did an internship for 1 month
 - 🐢 I’m currently learning .NET Core.  
   
 
-- 🔮 How to reach me [aysnrdgdlengmail.com]()  
+- 🔮 How to reach me [aysnrdgdlen@gmail.com]()  
 
 
 </td><td valign="top" width="50%">
